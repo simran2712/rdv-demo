@@ -1,0 +1,18 @@
+.container-fluid {
+    /* box-shadow: 16px 16px -16px -16px rgba(181, 186, 235, 0.9); */
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.4);
+    border-radius: 18px;
+    height: 88vh;
+    margin: 37px 0;
+    min-width: 115%;
+    margin-left: -7.5%;
+    font-family: Montserrat;
+    /* background-color: #E8E8E8; */
+}
+
+
+.main {
+    width: 100%;
+    display: flex;
+}
+

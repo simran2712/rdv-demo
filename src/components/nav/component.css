@@ -6,6 +6,7 @@ nav {
   margin-right: -16px;
   display: flex;
   background-color: black;
+  overflow: hidden;
 }
 
 .nav_logo {

@@ -2,7 +2,7 @@ import './component.css';
 import user from "../../assets/user.png";
 
 function right(){
-    return <div class="right col-3">
+    return <div class="right col-sm-3 col-11">
         <div class="profile">
         <img className='up_user' src={user} ></img>
         </div>

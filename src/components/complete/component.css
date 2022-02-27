@@ -7,8 +7,10 @@
     min-width: 115%;
     margin-left: -7.5%;
     font-family: Montserrat;
+    height: max-content;
     /* background-color: #E8E8E8; */
 }
+
 
 
 .main {
@@ -16,3 +18,14 @@
     display: flex;
 }
 
+@media (max-width:572px){
+    .main{
+        flex-direction: column-reverse;
+    }
+
+
+    .container{
+        overflow: hidden;
+    }
+
+}

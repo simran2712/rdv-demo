@@ -35,3 +35,14 @@
 .head3 {
     color: black;
 }
+
+@media (max-width:500px){
+    .vertical-menu{
+        height: 300px;
+    }
+    .left_comp{
+        margin-top: 25px;
+    }
+}
+
+

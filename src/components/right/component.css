@@ -2,6 +2,7 @@
 .right {
     /* background-color: rgb(228, 247, 144); */
     margin-left: -1%;
+    /* width:25%; */
     height: 550px;
 }
 
@@ -53,4 +54,12 @@
     height: 70px;
     background-color: rgb(201, 199, 199);
     padding: 3%;
+}
+
+@media (max-width:500px){
+    .right{
+        padding: 5%;
+        margin-left: 0;
+    }
+
 }
